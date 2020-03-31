@@ -142,3 +142,115 @@ add_score('Tony Parker',2011,0.002)
 add_score('Chris Paul',2011,0.002)
 extract_mvp_y_by_y(2011)
 mvp_2011 = pd.read_csv('/Users/Coni/Desktop/ENSAE/1A/Projet informatique/Data/mvp2011.csv')
+
+
+
+
+
+
+
+### 1993 - 1994 ### 
+
+addscore('Hakeem Olajuwon',1994,0.880)
+addscore('David Robinson',1994,0.723)
+addscore('Scottie Pippen',1994,0.386)
+addscore('Shaquille ONeal',1994,0.286)  
+addscore('Patrick Ewing',1994,0.252)
+addscore('Gary Payton',1994,0.020)
+addscore('Shawn Kemp',1994,0.017)
+addscore('Karl Malone',1994,0.017)  
+addscore('Mark Price',1994,0.007)
+addscore('Charles Barkley',1994,0.005)
+addscore('Mookie Blaylock',1994,0.001)
+addscore('Kevin Johnson',1994,0.001)  
+addscore('Dennis Rodman',1994,0.001)
+addscore('Latrell Sprewell',1994,0.001)
+addscore('John Stockton',1994,0.001)
+addscore('Dominique Wilkins',1994,0.001)  
+addscore('Kevin Willis',1994,0.001)           
+      
+### 1992 - 1993 ###
+
+addscore('Charles Barkley',1993,0.852)
+addscore('Hakeem Olajuwon',1993,0.660)
+addscore('Michael Jordan',1993,0.577)
+addscore('Patrick Ewing',1993,0.366)
+addscore('Dominique Wilkins',1993,0.055)
+addscore('David Robinson',1993,0.034)
+addscore('Shaquille ONeal',1993,0.031)
+addscore('Karl Malone',1993,0.010)
+addscore('Mark Price',1993,0.010)
+addscore('Brad Daugherty',1993,0.001)
+addscore('Clyde Drexler',1993,0.001)
+addscore('Joe Dumars',1993,0.001)         
+addscore('Shawn Kemp',1993,0.001)
+addscore('John Stockton',1993,0.001)
+       
+         
+### 1991 - 1992 ### 
+
+addscore('Michael Jordan',1992,0.938)
+addscore('Clyde Drexler',1992,0.584)
+addscore('David Robinson',1992,0.351)
+addscore('Karl Malone',1992,0.273)         
+addscore('Patrick Ewing',1992,0.104)
+addscore('Chris Mullin',1992,0.084)
+addscore('Mark Price',1992,0.069)
+addscore('Tim Hardaway',1992,0.067)
+addscore('Scottie Pippen',1992,0.033)
+addscore('Dennis Rodman',1992,0.027)
+addscore('Brad Daugherty',1992,0.025)
+addscore('Charles Barkley',1992,0.019)         
+addscore('John Stockton',1992,0.019)
+addscore('Larry Bird',1992,0.003)
+addscore('Kevin Johnson',1992,0.002)
+addscore('Danny Manning',1992,0.001)  
+addscore('Detlef Schrempf',1992,0.001)         
+         
+### 1990 - 1991 ###
+
+addscore('Michael Jordan',1991,0.928)
+addscore('Magic Johnson',1991,0.518)
+addscore('David Robinson',1991,0.496)
+addscore('Charles Barkley',1991,0.231)
+addscore('Karl Malone',1991,0.148)
+addscore('Clyde Drexler',1991,0.078)
+addscore('Kevin Johnson',1991,0.033)
+addscore('Dominique Wilkins',1991,0.030)
+addscore('Larry Bird',1991,0.026)
+addscore('Terry Porter',1991,0.026)
+addscore('Patrick Ewing',1991,0.021)
+addscore('John Stockton',1991,0.016)
+addscore('Isiah Thomas',1991,0.011)
+addscore('Robert Parish',1991,0.010)
+addscore('Joe Dumars',1991,0.008)
+addscore('Bernard King',1991,0.007)
+addscore('Kenny Smith',1991,0.005)
+addscore('Hakeem Olajuwon',1991,0.004)
+addscore('Tim Hardaway',1991,0.001)
+addscore('Kevin McHale',1991,0.001)
+
+
+### 1989-1990 ###
+
+add_score('Magic Johnson',1990,0.691)
+add_score('Charles Barkley',1990,0.667)
+add_score('Michael Jordan',1990,0.613)
+add_score('Karl Malone',1990,0.233)
+add_score('Patrick Ewing',1990,0.176)
+add_score('David Robinson',1990,0.111)
+add_score('Hakeem Olajuwon',1990,0.070)
+add_score('Tom Chambers', 1990,0.013)
+add_score('John Stockton',1990,0.010)
+add_score('Larry Bird',1990,0.005)
+add_score('Buck Williams',1990,0.005)
+add_score('Clyde Drexler',1990,0.003)
+add_score('Joe Dumars',1990,0.001)
+add_score('Isiah Thomas',1990,0.001)
+
+#Ajout des bilans des équipes
+
+
+# Choix des feature 
+
+
